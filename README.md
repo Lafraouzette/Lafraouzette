@@ -22,6 +22,3 @@ Je suis ouvert aux collaborations sur des **projets open-source**, des **solutio
 ## ⚡ Fun fact  
 i like to be free !  
 
----
-✨ _"Automatiser pour mieux innover"_ 🚀  
-
