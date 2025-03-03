@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Mouhssine LAFRAOUZI (@Lafraouzette)
+# 👋 Salut, c'est Mouhssine LAFRAOUZI (@Lafraouzette)
 
 ## 👀 À propos de moi  
 Je suis un **développeur web full-stack** spécialisé en **Laravel, Java JEE, Spring Boot et Angular**. Passionné par l’optimisation des performances et la sécurité des applications, j’aime relever des défis techniques et proposer des solutions innovantes.  
