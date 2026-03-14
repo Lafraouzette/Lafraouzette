@@ -45,7 +45,9 @@ focus:
 
 ## 🛠️ Stack Technique
 
-<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="50%">
 
 ### 💻 Langages de Programmation
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,6 +56,7 @@ focus:
 
 ### 🧩 Frameworks & Librairies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -63,47 +66,71 @@ focus:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔐 Sécurité & Accès
+### 🔐 Sécurité & Gestion des Accès
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 ![LDAP](https://img.shields.io/badge/LDAP-0052CC?style=for-the-badge&logo=openldap&logoColor=white)
 
-### 🐳 DevOps & Cloud
+    </td>
+    <td valign="top" width="50%">
+
+### 🐳 DevOps & Conteneurisation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ⚙️ CI/CD & Versioning
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🤖 Intelligence Artificielle & Computer Vision
+### 🤖 IA & Computer Vision
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![LLM](https://img.shields.io/badge/LLM_(Llama)-7C3AED?style=for-the-badge&logo=meta&logoColor=white)
+![LLM Llama](https://img.shields.io/badge/LLM_(Llama)-7C3AED?style=for-the-badge&logo=meta&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![RASA](https://img.shields.io/badge/RASA-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 📋 API & Tests
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+### 📊 Gestion de Projet
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lafraouzette&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafraouzette&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=ffffff"/>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lafraouzette&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=ffffff"/>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafraouzette&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=ffffff"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=lafraouzette&theme=tokyonight&hide_border=true&background=0d1117&stroke=64b5f6&ring=64b5f6&fire=ff6b6b&currStreakLabel=64b5f6" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lafraouzette&theme=tokyonight&hide_border=true&background=0d1117&stroke=64b5f6&ring=64b5f6&fire=ff6b6b&currStreakLabel=64b5f6" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lafraouzette&bg_color=0d1117&color=64b5f6&line=64b5f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lafraouzette&bg_color=0d1117&color=64b5f6&line=64b5f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
