@@ -11,16 +11,16 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouhssine-lafraouzi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lafraouzette)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lafraouzimouhssine@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B212%20716408559-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212716408559)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mouhssine-lafraouzi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lafraouzette)
 
 <br/>
 
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=mouhssine-lafraouzi&color=64b5f6&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/mouhssine-lafraouzi?style=flat-square&color=64b5f6)
+![Profile Views](https://komarev.com/ghpvc/?username=lafraouzette&color=64b5f6&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/lafraouzette?style=flat-square&color=64b5f6)
 
 </div>
 
@@ -94,16 +94,16 @@ focus:
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouhssine-lafraouzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhssine-lafraouzi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lafraouzette&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lafraouzette&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouhssine-lafraouzi&theme=tokyonight&hide_border=true&background=0d1117&stroke=64b5f6&ring=64b5f6&fire=ff6b6b&currStreakLabel=64b5f6" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lafraouzette&theme=tokyonight&hide_border=true&background=0d1117&stroke=64b5f6&ring=64b5f6&fire=ff6b6b&currStreakLabel=64b5f6" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouhssine-lafraouzi&bg_color=0d1117&color=64b5f6&line=64b5f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lafraouzette&bg_color=0d1117&color=64b5f6&line=64b5f6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
